@@ -1,0 +1,43 @@
+body {
+    background-image: url("../public/background.jpg");
+    background-repeat: no-repeat;
+    background-size: 1367px 625px;
+    /* width: 100%; */
+    color: white;
+  }
+  .App {
+    font-family: sans-serif;
+    text-align: center;
+    max-width: 700px;
+    margin: auto;
+  }
+  
+  li div {
+    padding: 1rem;
+    border: 1px solid;
+    border-radius: 1rem;
+    margin: 1rem;
+  }
+  ul {
+    list-style: none;
+  }
+  
+  span {
+    padding: 1rem;
+    margin: 50px 20px;
+    cursor: pointer;
+    border: 1px solid;
+    border-radius: 1rem;
+  }
+  hr {
+    /* margin: 2rem 0rem; */
+    margin-top: 3rem;
+  }
+  p {
+    padding: 1rem 0rem;
+  }
+  span:hover {
+    background-color: transparent;
+    color: #64748b;
+  }
+  
