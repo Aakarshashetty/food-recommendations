@@ -27,7 +27,7 @@ body {
     padding: 1rem;
     margin: 50px 20px;
     cursor: pointer;
-    border: 1px solid;
+    border: 1px solid; 
     border-radius: 1rem;
   }
   hr {
@@ -39,6 +39,6 @@ body {
   }
   span:hover {
     background-color: transparent;
-    color: #64748b;
+    color: #343a40;
   }
   
