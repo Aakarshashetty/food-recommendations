@@ -1,9 +1,9 @@
 body {
-    background-image: url("../public/background.jpg");
+    background-image: url("../public/background1.jpg");
     background-repeat: no-repeat;
-    background-size: 1367px 625px;
+    background-size: 1367px 660px;
     /* width: 100%; */
-    color: white;
+    color: black;
     font-size: large;
   }
   .App {
