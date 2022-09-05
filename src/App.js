@@ -13,7 +13,7 @@ const foodList = {
     { name: "Hyderabi Biriyani", rating: "5/5" },
     { name: "Idli Sambar", rating: "4/5" }
   ],
-  Asian: [
+  Japanese: [
     { name: " Vietnamese Dumplings", rating: "4/5" },
     { name: "Japanese Prawn Tempura", rating: "3.5/5" },
     { name: "Chilli Chicken", rating: "5/5" }
